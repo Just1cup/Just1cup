@@ -2,8 +2,9 @@
 # Hi, I'm Paulo Henrique 👋
 
 
+
 ## 🚀 About me 
-I'm a Front-end developer from Brazil that nowdays is at development. 
+I'm a Front-end developer from Brazil that is still at development nowdays. 
 
 
 
