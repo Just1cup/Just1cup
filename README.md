@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=just1cup&show_icons=true&count_private=true&hide_border=true&title_color=a371f7&icon_color=ff91a4&text_color=a371f7&bg_color=0d1117" alt="Paulo Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just1cup&layout=compact&hide_border=true&title_color=a371f7&text_color=a371f7&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=just1cup&show_icons=true&count_private=true&hide_border=true&title_color=a371f7&icon_color=ff91a4&text_color=a361f6&bg_color=0d1117" alt="Paulo Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just1cup&layout=compact&hide_border=true&title_color=a371f7&text_color=a361f6&bg_color=0d1117" />
 </div>
 
 
@@ -42,7 +42,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a371f7&height=120&section=footer"/>
 
 
 
