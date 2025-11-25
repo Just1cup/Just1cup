@@ -11,12 +11,6 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=just1cup&show_icons=true&count_private=true&hide_border=true&title_color=a371f7&icon_color=ff91a4&text_color=a361f6&bg_color=0d1117" alt="Paulo Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just1cup&layout=compact&hide_border=true&title_color=a371f7&text_color=a361f6&bg_color=0d1117" />
-</div>
-
-
 <div align="center"> 
 <a href="https://www.linkedin.com/in/paulo-henrique-freitas-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>               
 <a href="https://instagram.com/paulo_lyric" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
