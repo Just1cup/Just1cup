@@ -62,20 +62,5 @@ Focused on threat detection, intelligence-driven analysis, and building tools th
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=just1cup&bg_color=0d1117&color=5b21b6&line=7c3aed&point=c084fc&area=true&hide_border=true"/>
 </p>
 
----
-
-## 📫 Contact
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hidden" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hidden@gmail.com">
-<img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
 <!-- FOOTER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:0f172a&height=120&section=footer"/>
