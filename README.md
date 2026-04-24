@@ -10,12 +10,45 @@
 <a href = "mailto:paulohfreitas22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+### 🧠 Core Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+
+---
+
+### 🛡️ Cybersecurity & Detection Engineering
+
+![Sigma](https://img.shields.io/badge/-Sigma-0D1117?style=for-the-badge)&nbsp;
+![KQL](https://img.shields.io/badge/-KQL-0D1117?style=for-the-badge)&nbsp;
+![AQL](https://img.shields.io/badge/-AQL-0D1117?style=for-the-badge)&nbsp;
+![SIEM](https://img.shields.io/badge/-SIEM-0D1117?style=for-the-badge)&nbsp;
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-0D1117?style=for-the-badge)&nbsp;
+![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-0D1117?style=for-the-badge)&nbsp;
+![CTI](https://img.shields.io/badge/-Cyber%20Threat%20Intelligence-0D1117?style=for-the-badge)&nbsp;
+
+---
+
+### ⚙️ Backend, Infra & Tooling
+
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+
+---
+
+### 🔬 Platforms & Tools
+
+![QRadar](https://img.shields.io/badge/-QRadar-0D1117?style=for-the-badge)&nbsp;
+![Wazuh](https://img.shields.io/badge/-Wazuh-0D1117?style=for-the-badge)&nbsp;
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-0D1117?style=for-the-badge)&nbsp;
+![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-0D1117?style=for-the-badge)&nbsp;
+![OTX](https://img.shields.io/badge/-AlienVault%20OTX-0D1117?style=for-the-badge)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a371f7&height=120&section=footer"/>
