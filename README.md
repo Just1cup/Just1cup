@@ -17,7 +17,7 @@ Focused on threat detection, intelligence-driven analysis, and building tools th
 - SOC Analyst with hands-on experience in SIEM and threat hunting  
 - Strong focus on **Detection Engineering & CTI workflows**  
 - Building an **IoC enrichment & investigation platform (SOCINTEL)**  
-- Experience with **QRadar, Wazuh, Sigma, AQL, KQL**  
+- Experience with **QRadar, Wazuh, Sentinel, Sigma, AQL, KQL**  
 - Interested in **automation, intelligence pipelines, and attacker behavior modeling**
 
 ---
